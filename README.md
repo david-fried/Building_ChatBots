@@ -1,2 +1,2 @@
 # Building_ChatBots
-Learning to build chat bots
+Created this repository to document my experience learning to build chat bots.
